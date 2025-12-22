@@ -1,0 +1,7 @@
+streamlit
+youtube-comment-downloader
+transformers
+torch
+pandas
+matplotlib
+seaborn
