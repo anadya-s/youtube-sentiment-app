@@ -15,9 +15,10 @@ You must start both the backend and frontend servers simultaneously.
 **1. Start the API (Backend)**
 ```bash
 uvicorn api:app --reload
+```
 
 **2. Start the UI (Frontend)**
 Open a new terminal and run:
-
-Bash
+```bash
 streamlit run app.py
+```
